@@ -1,3 +1,9 @@
+***********
+The demo video can be watched in 
+https://drive.google.com/file/d/10WtJVOu_Z6dw-J3dbRYLpinOtsZuPPWD/view?usp=sharing
+***********
+
+
 Magical Slime
 
 How to run the game: run the "main.py" file. 
